@@ -1,0 +1,9 @@
+setup.py
+polypsnet/__init__.py
+polypsnet/cli.py
+polypsnet.egg-info/PKG-INFO
+polypsnet.egg-info/SOURCES.txt
+polypsnet.egg-info/dependency_links.txt
+polypsnet.egg-info/entry_points.txt
+polypsnet.egg-info/requires.txt
+polypsnet.egg-info/top_level.txt
